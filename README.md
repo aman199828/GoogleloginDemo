@@ -13,8 +13,6 @@ Clone the project
 ```
 
 
-# First select server folder 
-
 Install dependencies
 
 ```bash
@@ -28,8 +26,11 @@ Start the server
 node index.js
 ```
 
-# Then select googlelogin folder inside server folder 
+# Then select googlelogin folder
+```bash
+cd googlelogin
 
+```
 Install dependencies
 
 ```bash
