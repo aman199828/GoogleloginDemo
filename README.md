@@ -43,3 +43,4 @@ Start the server
 ```bash
 npm run dev
 ```
+Note:Please use localhost 3000 port in front-end
